@@ -1,0 +1,13 @@
+
+1. create folder and files
+2. create github REPO
+3. push content to REPO
+
+4. create html for 4 components (screens)
+5. build travel list in js (with class and objects)
+6. build travel list in html
+7. reg screen - form [fname, lname, id, travelid, passengers, totalprice]
+
+8. list of reg
+9. search my travels
+
